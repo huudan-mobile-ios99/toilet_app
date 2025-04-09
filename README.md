@@ -1,16 +1,4 @@
 # toilet_client_web_v2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1027" alt="Screenshot 2025-04-09 at 3 11 23 PM" src="https://github.com/user-attachments/assets/520c5dc9-4b0a-45d0-bc5b-b5285552e039" />
+<img width="1027" alt="Screenshot 2025-04-09 at 3 11 27 PM" src="https://github.com/user-attachments/assets/22c11894-b533-44d3-ada2-77d594377efe" />
+<img width="1027" alt="Screenshot 2025-04-09 at 3 11 31 PM" src="https://github.com/user-attachments/assets/2afa283d-4491-4355-8e3f-5886f467ceb4" />
